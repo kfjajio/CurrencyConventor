@@ -1,0 +1,13 @@
+
+h
+java:S1192"FDefine a constant instead of duplicating this literal "Ruble" 9 times.(Ú¢Öşùÿÿÿÿ8áõ¨ò²1
+d
+java:S1192"GDefine a constant instead of duplicating this literal "Dollar" 9 times.(î±£¢8âõ¨ò²1
+c
+java:S1192"FDefine a constant instead of duplicating this literal "Pound" 9 times.(ÕÒè8ãõ¨ò²1
+K
+java:S1659")Declare "currencyTwo" on a separate line.(ŞÃİÿÿÿÿÿ8Àş¨ò²1
+}
+java:S1450"[Remove the "currencyList" field and declare it as a local variable in the relevant methods.(Òİ–¯ÿÿÿÿÿ8Âş¨ò²1
+t
+java:S3776("RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(´§‚«üÿÿÿÿ8Ñş¨ò²1
